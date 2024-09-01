@@ -1,4 +1,4 @@
 # LinkTree-Bio
 
-this page is  LinkedTree Bio
-link - https://gauravbariha.github.io/LinkTree-Bio/
+This page is  LinkedTree Bio.
+Link - https://gauravbariha.github.io/LinkTree-Bio/
